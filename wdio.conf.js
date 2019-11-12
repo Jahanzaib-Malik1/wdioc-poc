@@ -13,12 +13,18 @@ const capabilities = debug
       ];
 
 
+// test
 
 
 
 
 
-      
+
+
+
+
+
+
 const maxInstances = debug ? 1 : 10;
 
 exports.config = {
