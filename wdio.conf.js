@@ -14,6 +14,10 @@ const capabilities = debug
 
 
 
+
+
+
+
       
 const maxInstances = debug ? 1 : 10;
 
