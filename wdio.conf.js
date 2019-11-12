@@ -12,6 +12,9 @@ const capabilities = debug
           },
       ];
 
+
+
+      
 const maxInstances = debug ? 1 : 10;
 
 exports.config = {
